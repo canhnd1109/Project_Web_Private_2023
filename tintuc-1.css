@@ -75,6 +75,7 @@ body {
 
                     }
                         .hdimage img{
+                            border-radius: 10px;
                             width: 100%;
                             transition: opacity 1s;
                             opacity: 1;
@@ -156,8 +157,10 @@ body {
                         width: 2.8 em;
                         backface-visibility: hidden;
                         
+                        
                      }
                         .absocont{
+                            border-radius: 2px;
                             background-color: rgb(216, 226, 29);
                             display: table-cell;
                             vertical-align: middle;
